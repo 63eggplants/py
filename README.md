@@ -14,3 +14,5 @@ regist coding...
 regitst completed!!
 
 bug fix for hotfix 0.2.1
+
+bug fix for hotfix 0.2.2
