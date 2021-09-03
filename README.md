@@ -12,3 +12,5 @@ login ok
 regist coding...
 
 regitst completed!!
+
+실수로 main에서 작업!!
